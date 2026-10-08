@@ -3,7 +3,7 @@
 A responsive personal portfolio for Abhay Soni, focused on SOC operations and blue-team security.
 
 ## Files
-- `index.html` — complete portfolio site
+- `Abhay-Portfolio` — complete portfolio site
 - `assets/abhay-profile.png` — profile photo
 - `Abhay-Resume.pdf` — resume opened by the Resume buttons
 
