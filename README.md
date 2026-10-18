@@ -1,6 +1,6 @@
 # Abhay Soni — Cybersecurity Portfolio
 
-A responsive personal portfolio for Abhay Soni, focused on SOC operations and blue-team security !!!
+A responsive personal portfolio for Abhay Soni, focused on SOC operations and blue-team security !!!!
 
 ## Files
 - `index.html` — complete portfolio site
