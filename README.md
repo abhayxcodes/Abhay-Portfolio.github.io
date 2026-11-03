@@ -11,7 +11,7 @@ A responsive personal portfolio for Abhay Soni, focused on SOC operations and bl
 Open `index.html` in a browser. No build step is required..
 
 ## Deploy
-Upload the whole folder to Netlify, GitHub Pages, Vercel, or any static hosting provider. Keep the relative file structure unchanged so the resume and profile image paths continue to work.
+Upload the whole folder to Netlify, GitHub Pages, Vercel, or any static hosting provider. Keep the relative file structure unchanged so the resume and profile image paths continue to work.>>>
 
 ## Project links
 - Nexus-SOC: https://github.com/abhayxcodes/Nexus-SOC
