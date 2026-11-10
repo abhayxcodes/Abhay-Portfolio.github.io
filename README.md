@@ -8,7 +8,7 @@ A responsive personal portfolio for Abhay Soni, focused on SOC operations and bl
 - `Abhay-Resume.pdf` — resume opened by the Resume buttons
 
 ## Run locally
-Open `index.html` in a browser. No build step is required...................
+Open `index.html` in a browser. No build is required...................
 
 
 
